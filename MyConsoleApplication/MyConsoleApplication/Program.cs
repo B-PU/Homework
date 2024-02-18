@@ -13,6 +13,7 @@ namespace MyConsoleApplication
             Console.WriteLine("Hello world!");
             Console.ReadLine();
             //line 1
+            //line 2
         }
     }
 }
