@@ -1,0 +1,7 @@
+C:\Users\OLYK\Desktop\GIT_Homework_1\Console Application\Console Application\bin\Debug\Console Application.exe.config
+C:\Users\OLYK\Desktop\GIT_Homework_1\Console Application\Console Application\bin\Debug\Console Application.exe
+C:\Users\OLYK\Desktop\GIT_Homework_1\Console Application\Console Application\bin\Debug\Console Application.pdb
+C:\Users\OLYK\Desktop\GIT_Homework_1\Console Application\Console Application\obj\Debug\Console Application.csproj.AssemblyReference.cache
+C:\Users\OLYK\Desktop\GIT_Homework_1\Console Application\Console Application\obj\Debug\Console Application.csproj.CoreCompileInputs.cache
+C:\Users\OLYK\Desktop\GIT_Homework_1\Console Application\Console Application\obj\Debug\Console Application.exe
+C:\Users\OLYK\Desktop\GIT_Homework_1\Console Application\Console Application\obj\Debug\Console Application.pdb
