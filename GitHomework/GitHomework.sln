@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHomework", "GitHomework\GitHomework.csproj", "{279CAADE-197E-4351-B3D0-85FCB7EA5524}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{279CAADE-197E-4351-B3D0-85FCB7EA5524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{279CAADE-197E-4351-B3D0-85FCB7EA5524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{279CAADE-197E-4351-B3D0-85FCB7EA5524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{279CAADE-197E-4351-B3D0-85FCB7EA5524}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEA1AFFA-5DAE-4EFB-98D6-1EC862E0E791}
+	EndGlobalSection
+EndGlobal

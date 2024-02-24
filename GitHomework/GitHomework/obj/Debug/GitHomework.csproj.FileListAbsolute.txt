@@ -1,0 +1,7 @@
+C:\Users\OLYK\Desktop\GIT_Homework_1\GitHomework\GitHomework\bin\Debug\GitHomework.exe.config
+C:\Users\OLYK\Desktop\GIT_Homework_1\GitHomework\GitHomework\bin\Debug\GitHomework.exe
+C:\Users\OLYK\Desktop\GIT_Homework_1\GitHomework\GitHomework\bin\Debug\GitHomework.pdb
+C:\Users\OLYK\Desktop\GIT_Homework_1\GitHomework\GitHomework\obj\Debug\GitHomework.csproj.AssemblyReference.cache
+C:\Users\OLYK\Desktop\GIT_Homework_1\GitHomework\GitHomework\obj\Debug\GitHomework.csproj.CoreCompileInputs.cache
+C:\Users\OLYK\Desktop\GIT_Homework_1\GitHomework\GitHomework\obj\Debug\GitHomework.exe
+C:\Users\OLYK\Desktop\GIT_Homework_1\GitHomework\GitHomework\obj\Debug\GitHomework.pdb
