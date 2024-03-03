@@ -1,0 +1,7 @@
+C:\Users\OLYK\Desktop\Module 2\HomeworkModule_2.1\HomeworkModule_2.1\bin\Debug\HomeworkModule_2.1.exe.config
+C:\Users\OLYK\Desktop\Module 2\HomeworkModule_2.1\HomeworkModule_2.1\bin\Debug\HomeworkModule_2.1.exe
+C:\Users\OLYK\Desktop\Module 2\HomeworkModule_2.1\HomeworkModule_2.1\bin\Debug\HomeworkModule_2.1.pdb
+C:\Users\OLYK\Desktop\Module 2\HomeworkModule_2.1\HomeworkModule_2.1\obj\Debug\HomeworkModule_2.1.csproj.AssemblyReference.cache
+C:\Users\OLYK\Desktop\Module 2\HomeworkModule_2.1\HomeworkModule_2.1\obj\Debug\HomeworkModule_2.1.csproj.CoreCompileInputs.cache
+C:\Users\OLYK\Desktop\Module 2\HomeworkModule_2.1\HomeworkModule_2.1\obj\Debug\HomeworkModule_2.1.exe
+C:\Users\OLYK\Desktop\Module 2\HomeworkModule_2.1\HomeworkModule_2.1\obj\Debug\HomeworkModule_2.1.pdb
